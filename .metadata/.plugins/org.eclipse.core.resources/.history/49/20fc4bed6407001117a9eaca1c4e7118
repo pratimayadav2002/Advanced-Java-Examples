@@ -1,0 +1,19 @@
+package com.ty.di;
+
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.stereotype.Component;
+
+@Component
+public class Student {
+	
+	String name;
+	long phone;
+	
+	public Student(@Value(value="xyz") String name, @Value(value = "12345678") long phone) {
+		this.name = name;
+		this.phone = phone;
+	}
+
+	
+
+}

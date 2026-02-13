@@ -1,0 +1,11 @@
+package com.tyss;
+
+import org.springframework.context.ConfigurableApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class StudentDriver {
+public static void main(String[] args) {
+	
+	ConfigurableApplicationContext app = new ClassPathXmlApplicationContext("student.jsp");
+}
+}

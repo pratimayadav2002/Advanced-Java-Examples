@@ -1,0 +1,10 @@
+package com.ty;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class DEMO {
+	public void SayHi() {
+		System.out.println("hello everyone");
+	}
+}

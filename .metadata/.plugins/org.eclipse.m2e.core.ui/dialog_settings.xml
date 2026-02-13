@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\ajit\Downloads\Java_EE\03-Spring-DI\src\main\java\com\ty\Engine.java"/>
+			<item value="C:\Users\ajit\Downloads\Java_EE\02-Spring-DI\src\main\java\com\ty\Test.java"/>
+			<item value="C:\Users\ajit\Downloads\Java_EE\one-to-one-bi\src\main\java\com\ty\crud\FetchByEngine.java"/>
+			<item value="C:\Users\ajit\Downloads\Java_EE\many-to-many-uni\src\main\java\com\ty\entity\DeleteMovie.java"/>
+			<item value="C:\Users\ajit\Downloads\Java_EE\many-to-many-uni\src\main\java\com\ty\crud\Save.java"/>
+			<item value="C:\Users\ajit\Downloads\Java_EE\07-Task\pom.xml"/>
+			<item value="C:\Users\ajit\Downloads\Java_EE\HttpServletProject"/>
+			<item value="C:\Users\ajit\Downloads\Java_EE\01-Student-CRUD\src\main\java\practice2\executeUpdate_methods.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.tyss"/>
+			<item value="com.ty"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="05-Spring-AnnotationConfig"/>
+			<item value="04-Spring-Task"/>
+			<item value="03-Spring-DI"/>
+			<item value="01-SB-DI"/>
+			<item value="01-SB-Container"/>
+			<item value="one-to-many-bi"/>
+			<item value="one-to-one-bi"/>
+			<item value="one-to-many-uni"/>
+			<item value="many-to-many-uni"/>
+			<item value="many-to-one-uni"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+</section>

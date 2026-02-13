@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;S1.java&apos; to &apos;Request_Dispatcher/src/main/java/com.ty&apos;&#x0D;&#x0A;- Original project: &apos;Request_Dispatcher&apos;&#x0D;&#x0A;- Destination element: &apos;Request_Dispatcher/src/main/java/com.ty&apos;&#x0D;&#x0A;- Original element: &apos;com.ty.S1.java&apos;" description="Copy compilation unit" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.ty" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.ty{S1.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1767679819616" units="1" version="1.0"/>
+</session>

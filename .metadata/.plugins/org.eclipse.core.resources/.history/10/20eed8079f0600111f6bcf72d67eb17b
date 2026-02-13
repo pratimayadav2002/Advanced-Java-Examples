@@ -1,0 +1,8 @@
+package com.ty;
+
+public class TestApp {
+	
+	public void greet() {
+		System.out.println("Hi welcome");
+	}
+}

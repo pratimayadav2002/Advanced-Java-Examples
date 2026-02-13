@@ -1,0 +1,12 @@
+package com.ty.di;
+
+public class Person {
+	
+	String name;
+	int age;
+	
+	public void details() {
+		System.out.println("Name :"+name);
+		System.out.println("Age :"+age);
+	}
+}

@@ -1,0 +1,26 @@
+package com.ty.di;
+
+import org.springframework.context.ConfigurableApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+public class Test {
+public static void main(String[] args) {
+	
+	ConfigurableApplicationContext app = new AnnotationConfigApplicationContext(AppConfig.class);
+	Person p1 = app.getBean(Person.class);
+	p1.details();
+	System.out.println("-----------");
+	
+	Employee e1 = app.getBean(Employee.class);
+	e1.display();
+	System.out.println("------------");
+	
+	Student s1 = app.getBean(Student.class);
+	s1.display();
+	System.out.println("------------");
+	
+	Car c1 = app.getBean(Car.class);
+	c1.drive();
+	
+}
+}

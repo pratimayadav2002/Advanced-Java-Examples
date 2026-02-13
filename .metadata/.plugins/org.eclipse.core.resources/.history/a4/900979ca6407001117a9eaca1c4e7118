@@ -1,0 +1,18 @@
+package com.ty.di;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Student {
+	
+	String name;
+	long phone;
+	
+	public Student(@value(value="xyz") String name, long phone) {
+		this.name = name;
+		this.phone = phone;
+	}
+
+	
+
+}

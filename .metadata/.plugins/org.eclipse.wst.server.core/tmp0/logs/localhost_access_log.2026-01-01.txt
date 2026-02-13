@@ -1,0 +1,17 @@
+127.0.0.1 - - [01/Jan/2026:20:04:16 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Jan/2026:20:04:18 +0530] "GET /HttpServletProject/ HTTP/1.1" 200 52
+0:0:0:0:0:0:0:1 - - [01/Jan/2026:20:04:18 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [01/Jan/2026:20:11:48 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Jan/2026:20:11:49 +0530] "GET /HttpServletProject/index.jsp HTTP/1.1" 200 345
+0:0:0:0:0:0:0:1 - - [01/Jan/2026:20:12:12 +0530] "GET /HttpServletProject/index.jsp?uname=pengi&uemail=pengi%40gmail.com&upwd=1234 HTTP/1.1" 200 345
+127.0.0.1 - - [01/Jan/2026:20:20:47 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Jan/2026:20:20:47 +0530] "GET /HttpServletProject/pageA HTTP/1.1" 405 751
+0:0:0:0:0:0:0:1 - - [01/Jan/2026:20:21:35 +0530] "GET /HttpServletProject/index.jsp HTTP/1.1" 200 364
+0:0:0:0:0:0:0:1 - - [01/Jan/2026:20:21:51 +0530] "POST /HttpServletProject/pageA HTTP/1.1" 200 62
+0:0:0:0:0:0:0:1 - - [01/Jan/2026:20:22:52 +0530] "POST /HttpServletProject/pageA HTTP/1.1" 200 62
+0:0:0:0:0:0:0:1 - - [01/Jan/2026:20:22:55 +0530] "POST /HttpServletProject/pageA HTTP/1.1" 200 62
+0:0:0:0:0:0:0:1 - - [01/Jan/2026:20:23:29 +0530] "GET /HttpServletProject/pageA HTTP/1.1" 405 751
+0:0:0:0:0:0:0:1 - - [01/Jan/2026:20:24:07 +0530] "GET /HttpServletProject/pageA HTTP/1.1" 405 751
+127.0.0.1 - - [01/Jan/2026:20:25:03 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Jan/2026:20:25:04 +0530] "GET /HttpServletProject/index.jsp HTTP/1.1" 200 364
+0:0:0:0:0:0:0:1 - - [01/Jan/2026:20:25:18 +0530] "POST /HttpServletProject/pageA HTTP/1.1" 200 62

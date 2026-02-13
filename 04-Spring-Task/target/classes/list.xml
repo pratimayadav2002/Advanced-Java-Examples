@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+            http://www.springframework.org/schema/beans/spring-beans.xsd
+            http://www.springframework.org/schema/context
+            http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+
+
+<bean id="subjectId1" class="Setter.Subject">
+<property name="id" value="101"></property>
+<property name="name" value="Java"></property>
+</bean>
+
+<bean id="subjectId2" class="Setter.Subject">
+<property name="id" value="102"></property>
+<property name="name" value="sql"></property>
+</bean>
+
+<bean id="subjectId3" class="Setter.Subject">
+<property name="id" value="103"></property>
+<property name="name" value="html"></property>
+</bean>
+
+<bean id="subjectId4" class="Setter.Subject">
+<property name="id" value="104"></property>
+<property name="name" value="python"></property>
+</bean>
+
+
+<bean id="studentId" class="Setter.Student">
+<property name="name" value="riya"></property>
+<property name="subjects">
+<list>
+<ref bean="subjectId1" />
+<ref bean="subjectId2" />
+<ref bean="subjectId3" />
+<ref bean="subjectId4" />
+</list>
+</property>
+</bean>
+
+</beans>

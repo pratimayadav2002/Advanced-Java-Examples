@@ -1,0 +1,15 @@
+package Setter;
+
+public class Subject {
+	
+	int id;
+	
+	public void setId(int id) {
+		this.id = id;
+	}
+	
+	public void sub() {
+		System.out.println("learning new subjects");
+	}
+	
+}

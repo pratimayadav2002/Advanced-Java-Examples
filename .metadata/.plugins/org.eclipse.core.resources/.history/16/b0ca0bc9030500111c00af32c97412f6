@@ -1,0 +1,9 @@
+package Constructor;
+
+import java.util.Map;
+
+public class Shop {
+	
+	String name;
+	Map<String, Double> items;
+}

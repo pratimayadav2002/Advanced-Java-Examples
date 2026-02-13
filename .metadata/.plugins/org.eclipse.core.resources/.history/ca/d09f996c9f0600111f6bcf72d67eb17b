@@ -1,0 +1,18 @@
+package com.ty;
+
+import org.springframework.context.ConfigurableApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+public class Test {
+	public static void main(String[] args) {
+		
+		ConfigurableApplicationContext app = new AnnotationConfigApplicationContext(AppConfig.class);
+		
+		Student s1 = (Student) app.getBean("student");
+		s1.play();
+		
+		TestApp t1 = (TestApp) app.getBean("testApp");
+		t1.greet();
+	}
+	
+}

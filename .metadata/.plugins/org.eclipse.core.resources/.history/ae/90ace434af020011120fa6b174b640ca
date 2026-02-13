@@ -1,0 +1,30 @@
+package Setter;
+
+import java.util.List;
+
+public class Student {
+	
+	String name;
+	
+	Subject subjects;
+	
+	List<String> subjects;
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public void setSubjects(List<String> subjects) {
+		this.subjects = subjects;
+	}
+	
+	public void details() {
+		System.out.println("-----name-----");
+		System.out.println("Student Name : "+name);
+		System.out.println("-----subjects----");
+		System.out.println("subjects :"+subjects);
+		System.out.println("student ID : "+subject.id);
+		System.out.println("subjects : "+subject.name);
+	}
+	
+}
