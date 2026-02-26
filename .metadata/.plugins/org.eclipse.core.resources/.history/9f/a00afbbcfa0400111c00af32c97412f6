@@ -1,7 +1,0 @@
-package Constructor;
-
-public class Subject {
-	
-	int id;
-	
-}

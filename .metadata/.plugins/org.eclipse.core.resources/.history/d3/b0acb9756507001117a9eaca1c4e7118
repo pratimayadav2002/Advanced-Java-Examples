@@ -1,9 +1,0 @@
-package com.ty.di;
-
-import org.springframework.stereotype.Component;
-
-@Component
-public class Engine {
-	
-	int cc;
-}

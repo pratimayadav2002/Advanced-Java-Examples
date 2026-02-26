@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
-    <fullyQualifiedTypeName name="conn.ConnectionPool"/>
-    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
-    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
-    <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
-    <fullyQualifiedTypeName name="java.sql.Connection"/>
     <fullyQualifiedTypeName name="java.sql.DriverManager"/>
     <fullyQualifiedTypeName name="java.sql.SQLException"/>
     <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
@@ -13,7 +7,6 @@
     <fullyQualifiedTypeName name="javax.persistence.ManyToMany"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="com.ty.entity.Bank"/>
     <fullyQualifiedTypeName name="java.awt.datatransfer.SystemFlavorMap"/>
     <fullyQualifiedTypeName name="com.ty.entity.Account"/>
@@ -33,17 +26,14 @@
     <fullyQualifiedTypeName name="com.ty.entity.Engine"/>
     <fullyQualifiedTypeName name="com.ty.entity.Car"/>
     <fullyQualifiedTypeName name="com.ty.Person"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="com.ty.Employee"/>
     <fullyQualifiedTypeName name="com.tyss.Student"/>
     <fullyQualifiedTypeName name="com.ty.Car"/>
     <fullyQualifiedTypeName name="Setter.Student"/>
     <fullyQualifiedTypeName name="map.Shop"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="Constructor.Subject"/>
     <fullyQualifiedTypeName name="Constructor.Student"/>
     <fullyQualifiedTypeName name="java.util.Map"/>
-    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
     <fullyQualifiedTypeName name="Constructor.Shop"/>
     <fullyQualifiedTypeName name="Setter.Subject"/>
     <fullyQualifiedTypeName name="com.ty.TestApp"/>
@@ -51,13 +41,23 @@
     <fullyQualifiedTypeName name="com.ty.Student"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
-    <fullyQualifiedTypeName name="org.springframework.context.ConfigurableApplicationContext"/>
-    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
     <fullyQualifiedTypeName name="com.ty.di.Person"/>
     <fullyQualifiedTypeName name="com.ty.di.Employee"/>
     <fullyQualifiedTypeName name="com.ty.di.Student"/>
-    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
-    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
-    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="com.ty.di.Car"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.ty.AppConfig"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="com.ty.list.AppConfig2"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.ty.list.User"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ConfigurableApplicationContext"/>
+    <fullyQualifiedTypeName name="com.ty.list.Adhar"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Scope"/>
 </qualifiedTypeNameHistroy>
